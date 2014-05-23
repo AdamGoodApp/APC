@@ -26,4 +26,8 @@
 - (IBAction)rocketButton;
 - (IBAction)spaceButton;
 
+- (IBAction)mountainButton;
+- (IBAction)cashButton;
+- (IBAction)chakraButton;
+
 @end

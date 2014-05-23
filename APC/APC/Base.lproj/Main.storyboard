@@ -150,6 +150,9 @@
                                 <state key="normal" title="Button" image="Icon_0015_Layer-3.png">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <action selector="mountainButton" destination="vXZ-lx-hvc" eventType="touchDown" id="t3x-CS-Y9N"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OMW-lT-K8w">
                                 <rect key="frame" x="125" y="478" width="70" height="70"/>
@@ -157,6 +160,9 @@
                                 <state key="normal" title="Button" image="Icon_0016_Layer-2.png">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <action selector="cashButton" destination="vXZ-lx-hvc" eventType="touchDown" id="wNM-T0-fIR"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ydy-HQ-IWC">
                                 <rect key="frame" x="230" y="478" width="70" height="70"/>
@@ -164,6 +170,9 @@
                                 <state key="normal" title="Button" image="Icon_0017_Layer-1.png">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
+                                <connections>
+                                    <action selector="chakraButton" destination="vXZ-lx-hvc" eventType="touchDown" id="yWk-xA-Ih8"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>

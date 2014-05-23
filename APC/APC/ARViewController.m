@@ -94,7 +94,7 @@
     
     //Get the filename of the sound file:
     
-    NSString *path = [NSString stringWithFormat:@"%@%@", [[NSBundle mainBundle] resourcePath], @"/dnbkick.wav"];
+    NSString *path = [NSString stringWithFormat:@"%@%@", [[NSBundle mainBundle] resourcePath], @"/crunchkick.wav"];
     
     SystemSoundID soundID;
     
@@ -218,7 +218,7 @@
     
     //Get the filename of the sound file:
     
-    NSString *path = [NSString stringWithFormat:@"%@%@", [[NSBundle mainBundle] resourcePath], @"/sitar.wav"];
+    NSString *path = [NSString stringWithFormat:@"%@%@", [[NSBundle mainBundle] resourcePath], @"/bassLoop.wav"];
     
     SystemSoundID soundID;
     
@@ -259,6 +259,68 @@
     //Get the filename of the sound file:
     
     NSString *path = [NSString stringWithFormat:@"%@%@", [[NSBundle mainBundle] resourcePath], @"/bass.wav"];
+    
+    SystemSoundID soundID;
+    
+    NSURL *filePath = [NSURL fileURLWithPath:path isDirectory:NO];
+    
+    //Use audio sevices to create the sound
+    
+    AudioServicesCreateSystemSoundID((CFURLRef)CFBridgingRetain(filePath), &soundID);
+    
+    //Use audio services to play the sound
+    
+    AudioServicesPlaySystemSound(soundID);
+    
+}
+
+- (IBAction)mountainButton {
+    
+    
+    //Get the filename of the sound file:
+    
+    NSString *path = [NSString stringWithFormat:@"%@%@", [[NSBundle mainBundle] resourcePath], @"/bassSolo.wav"];
+    
+    SystemSoundID soundID;
+    
+    NSURL *filePath = [NSURL fileURLWithPath:path isDirectory:NO];
+    
+    //Use audio sevices to create the sound
+    
+    AudioServicesCreateSystemSoundID((CFURLRef)CFBridgingRetain(filePath), &soundID);
+    
+    //Use audio services to play the sound
+    
+    AudioServicesPlaySystemSound(soundID);
+    
+}
+
+- (IBAction)cashButton {
+    
+    
+    //Get the filename of the sound file:
+    
+    NSString *path = [NSString stringWithFormat:@"%@%@", [[NSBundle mainBundle] resourcePath], @"/vocalSolo.wav"];
+    
+    SystemSoundID soundID;
+    
+    NSURL *filePath = [NSURL fileURLWithPath:path isDirectory:NO];
+    
+    //Use audio sevices to create the sound
+    
+    AudioServicesCreateSystemSoundID((CFURLRef)CFBridgingRetain(filePath), &soundID);
+    
+    //Use audio services to play the sound
+    
+    AudioServicesPlaySystemSound(soundID);
+    
+}
+
+- (IBAction)chakraButton {
+    
+    //Get the filename of the sound file:
+    
+    NSString *path = [NSString stringWithFormat:@"%@%@", [[NSBundle mainBundle] resourcePath], @"/harmonySolo.wav"];
     
     SystemSoundID soundID;
     

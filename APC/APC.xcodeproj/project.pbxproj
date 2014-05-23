@@ -39,19 +39,24 @@
 		66999974192E539700A20AE8 /* Icon_0015_Layer-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 66999962192E539700A20AE8 /* Icon_0015_Layer-3.png */; };
 		66999975192E539700A20AE8 /* Icon_0016_Layer-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 66999963192E539700A20AE8 /* Icon_0016_Layer-2.png */; };
 		66999976192E539700A20AE8 /* Icon_0017_Layer-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 66999964192E539700A20AE8 /* Icon_0017_Layer-1.png */; };
+		66B6C9DA192EBA700039A474 /* vintagehihat.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9D7192EBA700039A474 /* vintagehihat.wav */; };
+		66B6C9DB192EBA700039A474 /* vintagekick.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9D8192EBA700039A474 /* vintagekick.wav */; };
+		66B6C9DC192EBA700039A474 /* vintagesnare.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9D9192EBA700039A474 /* vintagesnare.wav */; };
+		66B6C9DE192EBB250039A474 /* recorder.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9DD192EBB250039A474 /* recorder.wav */; };
+		66B6C9E0192EBBBD0039A474 /* bass.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9DF192EBBBD0039A474 /* bass.wav */; };
+		66B6C9E4192EBC300039A474 /* dnbhihat.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9E1192EBC300039A474 /* dnbhihat.wav */; };
+		66B6C9E5192EBC300039A474 /* dnbkick.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9E2192EBC300039A474 /* dnbkick.wav */; };
+		66B6C9E6192EBC300039A474 /* dnbsnare.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9E3192EBC300039A474 /* dnbsnare.wav */; };
+		66B6C9EA192EBD100039A474 /* crunchkick.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9E9192EBD100039A474 /* crunchkick.wav */; };
+		66B6C9EE192EC4170039A474 /* bassLoop.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9ED192EC4170039A474 /* bassLoop.wav */; };
+		66B6C9F2192ED3120039A474 /* bassSolo.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9F1192ED3120039A474 /* bassSolo.wav */; };
+		66B6C9F8192EDCF00039A474 /* electroSolo.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9F7192EDCF00039A474 /* electroSolo.wav */; };
+		66B6C9FA192EDD8C0039A474 /* vocalSolo.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9F9192EDD8C0039A474 /* vocalSolo.wav */; };
+		66B6C9FE192EE7200039A474 /* harmonySolo.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66B6C9FD192EE7200039A474 /* harmonySolo.wav */; };
 		66D29316192E8F4C004F3604 /* dubstephihat.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66D29313192E8F4C004F3604 /* dubstephihat.wav */; };
 		66D29317192E8F4C004F3604 /* dubstepkick.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66D29314192E8F4C004F3604 /* dubstepkick.wav */; };
 		66D29318192E8F4C004F3604 /* dubstepsnare.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66D29315192E8F4C004F3604 /* dubstepsnare.wav */; };
 		66D2931A192E909F004F3604 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66D29319192E909F004F3604 /* AudioToolbox.framework */; };
-		66D2931E192E940C004F3604 /* dnbhihat.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66D2931B192E940C004F3604 /* dnbhihat.wav */; };
-		66D2931F192E940C004F3604 /* dnbkick.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66D2931C192E940C004F3604 /* dnbkick.wav */; };
-		66D29320192E940C004F3604 /* dnbsnare.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66D2931D192E940C004F3604 /* dnbsnare.wav */; };
-		66D29327192E971C004F3604 /* bass.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66D29321192E971C004F3604 /* bass.wav */; };
-		66D29328192E971C004F3604 /* recorder.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66D29322192E971C004F3604 /* recorder.wav */; };
-		66D29329192E971C004F3604 /* sitar.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66D29323192E971C004F3604 /* sitar.wav */; };
-		66D2932A192E971C004F3604 /* vintagehihat.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66D29324192E971C004F3604 /* vintagehihat.wav */; };
-		66D2932B192E971C004F3604 /* vintagekick.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66D29325192E971C004F3604 /* vintagekick.wav */; };
-		66D2932C192E971C004F3604 /* vintagesnare.wav in Resources */ = {isa = PBXBuildFile; fileRef = 66D29326192E971C004F3604 /* vintagesnare.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -102,19 +107,24 @@
 		66999962192E539700A20AE8 /* Icon_0015_Layer-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon_0015_Layer-3.png"; sourceTree = "<group>"; };
 		66999963192E539700A20AE8 /* Icon_0016_Layer-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon_0016_Layer-2.png"; sourceTree = "<group>"; };
 		66999964192E539700A20AE8 /* Icon_0017_Layer-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon_0017_Layer-1.png"; sourceTree = "<group>"; };
+		66B6C9D7192EBA700039A474 /* vintagehihat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = vintagehihat.wav; sourceTree = "<group>"; };
+		66B6C9D8192EBA700039A474 /* vintagekick.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = vintagekick.wav; sourceTree = "<group>"; };
+		66B6C9D9192EBA700039A474 /* vintagesnare.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = vintagesnare.wav; sourceTree = "<group>"; };
+		66B6C9DD192EBB250039A474 /* recorder.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = recorder.wav; sourceTree = "<group>"; };
+		66B6C9DF192EBBBD0039A474 /* bass.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bass.wav; sourceTree = "<group>"; };
+		66B6C9E1192EBC300039A474 /* dnbhihat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = dnbhihat.wav; sourceTree = "<group>"; };
+		66B6C9E2192EBC300039A474 /* dnbkick.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = dnbkick.wav; sourceTree = "<group>"; };
+		66B6C9E3192EBC300039A474 /* dnbsnare.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = dnbsnare.wav; sourceTree = "<group>"; };
+		66B6C9E9192EBD100039A474 /* crunchkick.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = crunchkick.wav; sourceTree = "<group>"; };
+		66B6C9ED192EC4170039A474 /* bassLoop.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bassLoop.wav; sourceTree = "<group>"; };
+		66B6C9F1192ED3120039A474 /* bassSolo.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = bassSolo.wav; sourceTree = "<group>"; };
+		66B6C9F7192EDCF00039A474 /* electroSolo.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = electroSolo.wav; sourceTree = "<group>"; };
+		66B6C9F9192EDD8C0039A474 /* vocalSolo.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = vocalSolo.wav; sourceTree = "<group>"; };
+		66B6C9FD192EE7200039A474 /* harmonySolo.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = harmonySolo.wav; sourceTree = "<group>"; };
 		66D29313192E8F4C004F3604 /* dubstephihat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = dubstephihat.wav; sourceTree = "<group>"; };
 		66D29314192E8F4C004F3604 /* dubstepkick.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = dubstepkick.wav; sourceTree = "<group>"; };
 		66D29315192E8F4C004F3604 /* dubstepsnare.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = dubstepsnare.wav; sourceTree = "<group>"; };
 		66D29319192E909F004F3604 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
-		66D2931B192E940C004F3604 /* dnbhihat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = dnbhihat.wav; path = ../../../../../../../Desktop/dnbhihat.wav; sourceTree = "<group>"; };
-		66D2931C192E940C004F3604 /* dnbkick.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = dnbkick.wav; path = ../../../../../../../Desktop/dnbkick.wav; sourceTree = "<group>"; };
-		66D2931D192E940C004F3604 /* dnbsnare.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = dnbsnare.wav; path = ../../../../../../../Desktop/dnbsnare.wav; sourceTree = "<group>"; };
-		66D29321192E971C004F3604 /* bass.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = bass.wav; path = ../../../../../../../Desktop/bass.wav; sourceTree = "<group>"; };
-		66D29322192E971C004F3604 /* recorder.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = recorder.wav; path = ../../../../../../../Desktop/recorder.wav; sourceTree = "<group>"; };
-		66D29323192E971C004F3604 /* sitar.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sitar.wav; path = ../../../../../../../Desktop/sitar.wav; sourceTree = "<group>"; };
-		66D29324192E971C004F3604 /* vintagehihat.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = vintagehihat.wav; path = ../../../../../../../Desktop/vintagehihat.wav; sourceTree = "<group>"; };
-		66D29325192E971C004F3604 /* vintagekick.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = vintagekick.wav; path = ../../../../../../../Desktop/vintagekick.wav; sourceTree = "<group>"; };
-		66D29326192E971C004F3604 /* vintagesnare.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = vintagesnare.wav; path = ../../../../../../../Desktop/vintagesnare.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -246,15 +256,20 @@
 		66D29312192E8F41004F3604 /* Audio */ = {
 			isa = PBXGroup;
 			children = (
-				66D29321192E971C004F3604 /* bass.wav */,
-				66D29322192E971C004F3604 /* recorder.wav */,
-				66D29323192E971C004F3604 /* sitar.wav */,
-				66D29324192E971C004F3604 /* vintagehihat.wav */,
-				66D29325192E971C004F3604 /* vintagekick.wav */,
-				66D29326192E971C004F3604 /* vintagesnare.wav */,
-				66D2931B192E940C004F3604 /* dnbhihat.wav */,
-				66D2931C192E940C004F3604 /* dnbkick.wav */,
-				66D2931D192E940C004F3604 /* dnbsnare.wav */,
+				66B6C9FD192EE7200039A474 /* harmonySolo.wav */,
+				66B6C9F9192EDD8C0039A474 /* vocalSolo.wav */,
+				66B6C9F7192EDCF00039A474 /* electroSolo.wav */,
+				66B6C9F1192ED3120039A474 /* bassSolo.wav */,
+				66B6C9ED192EC4170039A474 /* bassLoop.wav */,
+				66B6C9E9192EBD100039A474 /* crunchkick.wav */,
+				66B6C9E1192EBC300039A474 /* dnbhihat.wav */,
+				66B6C9E2192EBC300039A474 /* dnbkick.wav */,
+				66B6C9E3192EBC300039A474 /* dnbsnare.wav */,
+				66B6C9DF192EBBBD0039A474 /* bass.wav */,
+				66B6C9DD192EBB250039A474 /* recorder.wav */,
+				66B6C9D7192EBA700039A474 /* vintagehihat.wav */,
+				66B6C9D8192EBA700039A474 /* vintagekick.wav */,
+				66B6C9D9192EBA700039A474 /* vintagesnare.wav */,
 				66D29313192E8F4C004F3604 /* dubstephihat.wav */,
 				66D29314192E8F4C004F3604 /* dubstepkick.wav */,
 				66D29315192E8F4C004F3604 /* dubstepsnare.wav */,
@@ -340,37 +355,42 @@
 			buildActionMask = 2147483647;
 			files = (
 				66D29317192E8F4C004F3604 /* dubstepkick.wav in Resources */,
-				66D29327192E971C004F3604 /* bass.wav in Resources */,
 				66999976192E539700A20AE8 /* Icon_0017_Layer-1.png in Resources */,
+				66B6C9FA192EDD8C0039A474 /* vocalSolo.wav in Resources */,
+				66B6C9F8192EDCF00039A474 /* electroSolo.wav in Resources */,
 				66999973192E539700A20AE8 /* Icon_0014_Layer-4.png in Resources */,
-				66D2931F192E940C004F3604 /* dnbkick.wav in Resources */,
 				66999936192E501000A20AE8 /* Images.xcassets in Resources */,
 				66D29318192E8F4C004F3604 /* dubstepsnare.wav in Resources */,
-				66D2932C192E971C004F3604 /* vintagesnare.wav in Resources */,
+				66B6C9F2192ED3120039A474 /* bassSolo.wav in Resources */,
+				66B6C9EA192EBD100039A474 /* crunchkick.wav in Resources */,
+				66B6C9DC192EBA700039A474 /* vintagesnare.wav in Resources */,
 				6699996C192E539700A20AE8 /* Icon_0007_Layer-11.png in Resources */,
-				66D29328192E971C004F3604 /* recorder.wav in Resources */,
 				66999971192E539700A20AE8 /* Icon_0012_Layer-6.png in Resources */,
-				66D2931E192E940C004F3604 /* dnbhihat.wav in Resources */,
 				66999967192E539700A20AE8 /* Icon_0002_Layer-16.png in Resources */,
 				66999928192E501000A20AE8 /* InfoPlist.strings in Resources */,
 				66D29316192E8F4C004F3604 /* dubstephihat.wav in Resources */,
+				66B6C9E0192EBBBD0039A474 /* bass.wav in Resources */,
+				66B6C9E4192EBC300039A474 /* dnbhihat.wav in Resources */,
 				66999975192E539700A20AE8 /* Icon_0016_Layer-2.png in Resources */,
 				6699996B192E539700A20AE8 /* Icon_0006_Layer-12.png in Resources */,
 				66999972192E539700A20AE8 /* Icon_0013_Layer-5.png in Resources */,
-				66D29320192E940C004F3604 /* dnbsnare.wav in Resources */,
 				66999970192E539700A20AE8 /* Icon_0011_Layer-7.png in Resources */,
 				66999969192E539700A20AE8 /* Icon_0004_Layer-14.png in Resources */,
 				66999931192E501000A20AE8 /* Main.storyboard in Resources */,
 				6699996D192E539700A20AE8 /* Icon_0008_Layer-10.png in Resources */,
-				66D29329192E971C004F3604 /* sitar.wav in Resources */,
+				66B6C9EE192EC4170039A474 /* bassLoop.wav in Resources */,
 				66999966192E539700A20AE8 /* Icon_0001_Layer-17.png in Resources */,
-				66D2932A192E971C004F3604 /* vintagehihat.wav in Resources */,
+				66B6C9E6192EBC300039A474 /* dnbsnare.wav in Resources */,
+				66B6C9DA192EBA700039A474 /* vintagehihat.wav in Resources */,
 				66999974192E539700A20AE8 /* Icon_0015_Layer-3.png in Resources */,
 				6699996E192E539700A20AE8 /* Icon_0009_Layer-9.png in Resources */,
-				66D2932B192E971C004F3604 /* vintagekick.wav in Resources */,
+				66B6C9FE192EE7200039A474 /* harmonySolo.wav in Resources */,
+				66B6C9DB192EBA700039A474 /* vintagekick.wav in Resources */,
 				66999965192E539700A20AE8 /* Icon_0000_Layer-18.png in Resources */,
+				66B6C9E5192EBC300039A474 /* dnbkick.wav in Resources */,
 				6699996A192E539700A20AE8 /* Icon_0005_Layer-13.png in Resources */,
 				6699996F192E539700A20AE8 /* Icon_0010_Layer-8.png in Resources */,
+				66B6C9DE192EBB250039A474 /* recorder.wav in Resources */,
 				66999968192E539700A20AE8 /* Icon_0003_Layer-15.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
